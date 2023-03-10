@@ -1,3 +1,3 @@
-[← Back](https://github.com/MCUniDev/NetworkPermissionsWiki/tree/main/Plymouth/README.md)
+[← Back](https://github.com/MCUniDev/NetworkPermissionsWiki/tree/main/README.md)
 # Plymouth
-- [Games-Events]([https://duckduckgo.com](https://github.com/MCUniDev/NetworkPermissionsWiki/tree/main/Plymouth/Games-Events.md))
+- [Games-Events](https://github.com/MCUniDev/NetworkPermissionsWiki/tree/main/Plymouth/Games-Events.md)
