@@ -1,2 +1,2 @@
-# NetworkPermissionsWiki
-A full list of commands and permissions for the MCUni Network
+# MCUni Network Commands & Permissions Wiki
+- [Plymouth](https://github.com/MCUniDev/NetworkPermissionsWiki/blob/main/Plymouth/README.md)
