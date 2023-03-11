@@ -21,3 +21,5 @@ Items inside the &lt;&gt; tag are optional. Items inside the [] tag are required
   | /bb forcestart [map] | Force-start BuildBattle |
   | /bb stop | Stops the current BuildBattle game |
   | /bb reload | Reload the BuildBattle system (useful for fixing random bugs) |
+| /tempan | Temporarily ban a user |
+| /kick | Kick a user from the server |
